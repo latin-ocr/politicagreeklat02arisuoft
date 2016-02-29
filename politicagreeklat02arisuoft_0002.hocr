@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./politicagreeklat02arisuoft_0002.png"; bbox 0 0 1942 3360; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 608 1517 1352 1748">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 608 1517 1352 1748">
+     <span class='ocr_line' id='line_1_1' title="bbox 735 1517 1170 1571; baseline -0.009 0"><span class='ocrx_word' id='word_1_1' title='bbox 735 1517 1004 1571; x_wconf 85' lang='lat' dir='ltr'><em>Presented</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1021 1526 1068 1568; x_wconf 90' lang='lat' dir='ltr'>to</span> <span class='ocrx_word' id='word_1_3' title='bbox 1092 1518 1170 1568; x_wconf 79' lang='lat' dir='ltr'>the</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 751 1605 1160 1670; baseline -0.002 -13"><span class='ocrx_word' id='word_1_4' title='bbox 751 1622 986 1657; x_wconf 81' lang='lat' dir='ltr'>LIBRARY</span> <span class='ocrx_word' id='word_1_5' title='bbox 1010 1605 1065 1670; x_wconf 89' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_6' title='bbox 1081 1607 1160 1656; x_wconf 83' lang='lat' dir='ltr'>the</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 608 1678 1352 1748; baseline -0.009 0"><span class='ocrx_word' id='word_1_7' title='bbox 608 1711 941 1748; x_wconf 78' lang='lat' dir='ltr'>uvaERsrrY</span> <span class='ocrx_word' id='word_1_8' title='bbox 966 1710 1033 1745; x_wconf 73' lang='lat' dir='ltr'>or</span> <span class='ocrx_word' id='word_1_9' title='bbox 1055 1709 1308 1744; x_wconf 83' lang='lat' dir='ltr'>TORONTO</span> <span class='ocrx_word' id='word_1_10' title='bbox 1350 1678 1352 1680; x_wconf 34' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 921 1783 982 1848">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 921 1783 982 1848">
+     <span class='ocr_line' id='line_1_4' title="bbox 921 1783 982 1848; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 921 1783 982 1848; x_wconf 80' lang='lat' dir='ltr'>by</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 648 1992 1299 2040">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 648 1992 1299 2040">
+     <span class='ocr_line' id='line_1_5' title="bbox 648 1992 1299 2040; baseline 0.003 -4"><span class='ocrx_word' id='word_1_12' title='bbox 648 1992 779 2038; x_wconf 80' lang='lat' dir='ltr'><strong>MRS.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 819 1992 880 2040; x_wconf 68' lang='lat' dir='ltr'>U.</span> <span class='ocrx_word' id='word_1_14' title='bbox 922 1994 980 2040; x_wconf 86' lang='lat' dir='ltr'>E.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1022 1993 1255 2039; x_wconf 71' lang='lat' dir='ltr'><strong>BENNETT</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1294 2032 1299 2038; x_wconf 33' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 296 1002 1418 3114">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 296 1002 1418 3114">
+     <span class='ocr_line' id='line_1_6' title="bbox 296 1002 1418 3114; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 296 1002 1418 3114; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
